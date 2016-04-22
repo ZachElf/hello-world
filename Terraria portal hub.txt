@@ -1,0 +1,38 @@
+Portal Hub for Terraria
+
+F(ishing) section:
+	1A - Forest Surface
+	1B - Forests Underground
+	1C - Forest Cavern
+	2 - Sky
+	3 - Crimson
+	4 - Corruption
+	5A - Snow Surface
+	5B - Snow Underground
+	6 - Jungle
+	7A - Hallow Surface
+	7B - Hallow Underground / Cavern
+	8 - Ocean
+	9 - Honey
+	0 - Mushroom Biome
+	
+W(eapon), Tools and Accesories section:
+	1 - Melee
+	2 - Ranged
+	3 - Magic
+	4 - Summon
+	5 - Consumables (Placeables)
+	6 - Tools
+	7 - Trophy
+	8 - Accesories
+	
+A(rmor) and Vanity section:
+	1 - Normal mode
+	2 - Hard mode
+	3 - Wizard set
+	4 - Miscellaneous
+	5 - Vanity Pieces
+	6 - Vanity Sets
+	7 - Boss Masks
+	8 - Vanity Accesories
+	9 - Developer Items
